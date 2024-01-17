@@ -12,4 +12,5 @@
   .caption {
       /* Red color in italics */
       color: red;
+      font-style: italic;
   }
